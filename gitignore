@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+
+# One-time setup scripts (optional - keep them out once you've run them,
+# or leave this section empty if you want them in the repo for the committee)
+# setup_map_columns.php
+# seed_demo_data.php
+# create_test_user.php
+# create_test_asset.php
